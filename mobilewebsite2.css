@@ -1,0 +1,33 @@
+.bgimg2{
+	background-image:url('https://wallpapers.com/images/hd/wet-feather-mobile-w142li7pn856j7uy.jpg');
+	background-size:cover;
+	height:100vh;
+}
+.mobilehead{
+	color:white;
+	font-family:'Roboto';
+	font-weight:bold;
+	font-size:35px;
+	padding:25px;
+}
+.layoutcard2{
+	background-color:white;
+	border-radius:8px;
+	padding:20px;
+	margin:18px;
+}
+.brandsimg{
+	width:120px;
+	height:120px;
+}
+.brandshead{
+	color:#041836;
+	font-family:'Roboto';
+	font-weight:bold;
+	font-size:30px;
+}
+.brandspara{
+	color:darkgrey;
+	font-family:'Roboto';
+	font-size:15px;
+}
